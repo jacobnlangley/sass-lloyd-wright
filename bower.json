@@ -1,0 +1,6 @@
+{
+  "name": "sass-lloyd-wright",
+  "dependencies": {
+    "jquery": "^1.11.1"
+  }
+}
